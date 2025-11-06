@@ -9,6 +9,7 @@ cd RecipeHub
 
 2️⃣ Start the Backend Server
 cd backend
+
 npm install
 npm run dev
 
@@ -17,6 +18,7 @@ Server runs on: http://localhost:8000
 
 3️⃣ Start the Frontend
 cd ../frontend
+
 npm install
 npm run dev
 
